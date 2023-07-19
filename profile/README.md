@@ -2,6 +2,6 @@ We are building a battle-tested **decentralized RPC** gateway to allow developer
 
 **Connect** now :rocket::  
 - `https://solana-mainnet.rpc.extrnode.com`  
-- `wss://solana-ws.extrnode.com`
+- `wss://solana-mainnet.ws.extrnode.com`
 
 ![image](img/extrnode_banner_2.png)
